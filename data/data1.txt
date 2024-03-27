@@ -1,0 +1,200 @@
+1. Jonathan Taylor, RB, Indianapolis Colts, RB1
+2. Christian McCaffrey, RB, Carolina Panthers, RB2
+3. Cooper Kupp, WR, Los Angeles Rams, WR1
+4. Austin Ekeler, RB, Los Angeles Chargers, RB3
+5. Justin Jefferson, WR, Minnesota Vikings, WR2
+6. Derrick Henry, RB, Tennessee Titans, RB4
+7. Ja'Marr Chase, WR, Cincinnati Bengals, WR3
+8. Dalvin Cook, RB, Minnesota Vikings, RB5
+9. Najee Harris, RB, Pittsburgh Steelers, RB6
+10. Travis Kelce, TE, Kansas City Chiefs, TE1
+11. Joe Mixon, RB, Cincinnati Bengals, RB7
+12. Davante Adams, WR, Las Vegas Raiders, WR4
+13. D'Andre Swift, RB, Detroit Lions, RB8
+14. Stefon Diggs, WR, Buffalo Bills, WR5
+15. Javonte Williams, RB, Denver Broncos, RB9
+16. CeeDee Lamb, WR, Dallas Cowboys, WR6
+17. Alvin Kamara, RB, New Orleans Saints, RB10
+18. Deebo Samuel, WR, San Francisco 49ers, WR7
+19. Tyreek Hill, WR, Miami Dolphins, WR8
+20. Leonard Fournette, RB, Tampa Bay Buccaneers, RB11
+21. Keenan Allen, WR, Los Angeles Chargers, WR9
+22. Mark Andrews, TE, Baltimore Ravens, TE2
+23. Aaron Jones, RB, Green Bay Packers, RB12
+24. Saquon Barkley, RB, New York Giants, RB13
+25. Nick Chubb, RB, Cleveland Browns, RB14
+26. James Conner, RB, Arizona Cardinals, RB15
+27. Kyle Pitts, TE, Atlanta Falcons, TE3
+28. Mike Evans, WR, Tampa Bay Buccaneers, WR10
+29. Cam Akers, RB, Los Angeles Rams, RB16
+30. Tee Higgins, WR, Cincinnati Bengals, WR11
+31. David Montgomery, RB, Chicago Bears, RB17
+32. A.J. Brown, WR, Philadelphia Eagles, WR12
+33. Josh Allen, QB, Buffalo Bills, QB1
+34. DJ Moore, WR, Carolina Panthers, WR13
+35. Antonio Gibson, RB, Washington Football Team, RB18
+36. Michael Pittman, WR, Indianapolis Colts, WR14
+37. Jaylen Waddle, WR, Miami Dolphins, WR15
+38. Ezekiel Elliott, RB, Dallas Cowboys, RB19
+39. Patrick Mahomes, QB, Kansas City Chiefs, QB2
+40. Diontae Johnson, WR, Pittsburgh Steelers, WR16
+41. George Kittle, TE, San Francisco 49ers, TE4
+42. Terry McLaurin, WR, Washington Football Team, WR17
+43. Breece Hall, RB, New York Jets, RB20
+44. DK Metcalf, WR, Seattle Seahawks, WR18
+45. Brandin Cooks, WR, Houston Texans, WR19
+46. Josh Jacobs, RB, Las Vegas Raiders, RB21
+47. Mike Williams, WR, Los Angeles Chargers, WR20
+48. Travis Etienne, RB, Jacksonville Jaguars, RB22
+49. Justin Herbert, QB, Los Angeles Chargers, QB3
+50. Jerry Jeudy, WR, Denver Broncos, WR21
+51. Amon-Ra St. Brown, WR, Detroit Lions, WR22
+52. Darren Waller, TE, Las Vegas Raiders, TE5
+53. J.K. Dobbins, RB, Baltimore Ravens, RB23
+54. T.J. Hockenson, TE, Detroit Lions, TE6
+55. Elijah Mitchell, RB, San Francisco 49ers, RB24
+56. Lamar Jackson, QB, Baltimore Ravens, QB4
+57. Darnell Mooney, WR, Chicago Bears, WR23
+58. Courtland Sutton, WR, Denver Broncos, WR24
+59. Marquise Brown, WR, Arizona Cardinals, WR25
+60. Chris Godwin, WR, Tampa Bay Buccaneers, WR26
+61. AJ Dillon, RB, Green Bay Packers, RB25
+62. Kyler Murray, QB, Arizona Cardinals, QB5
+63. Miles Sanders, RB, Philadelphia Eagles, RB26
+64. Amari Cooper, WR, Cleveland Browns, WR27
+65. Dalton Schultz, TE, Dallas Cowboys, TE7
+66. Gabriel Davis, WR, Buffalo Bills, WR28
+67. Joe Burrow, QB, Cincinnati Bengals, QB6
+68. Allen Robinson, WR, Los Angeles Rams, WR29
+69. Damien Harris, RB, New England Patriots, RB27
+70. JuJu Smith-Schuster, WR, Kansas City Chiefs, WR30
+71. Hunter Renfrow, WR, Las Vegas Raiders, WR31
+72. Clyde Edwards-Helaire, RB, Kansas City Chiefs, RB28
+73. Dallas Goedert, TE, Philadelphia Eagles, TE8
+74. Jalen Hurts, QB, Philadelphia Eagles, QB7
+75. Devin Singletary, RB, Buffalo Bills, RB29
+76. Rashod Bateman, WR, Baltimore Ravens, WR32
+77. Michael Thomas, WR, New Orleans Saints, WR33
+78. Kareem Hunt, RB, Cleveland Browns, RB30
+79. Chase Edmonds, RB, Miami Dolphins, RB31
+80. Dak Prescott, QB, Dallas Cowboys, QB8
+81. Tony Pollard, RB, Dallas Cowboys, RB32
+82. Elijah Moore, WR, New York Jets, WR34
+83. Rashaad Penny, RB, Seattle Seahawks, RB33
+84. Tyler Lockett, WR, Seattle Seahawks, WR35
+85. Rhamondre Stevenson, RB, New England Patriots, RB34
+86. DeVonta Smith, WR, Philadelphia Eagles, WR36
+87. Cordarrelle Patterson, RB, Atlanta Falcons, RB35
+88. Drake London, WR, Atlanta Falcons, WR37
+89. Melvin Gordon, RB, Denver Broncos, RB36
+90. Kenneth Walker, RB, Seattle Seahawks, RB37
+91. Russell Wilson, QB, Denver Broncos, QB9
+92. Adam Thielen, WR, Minnesota Vikings, WR38
+93. Tom Brady, QB, Tampa Bay Buccaneers, QB10
+94. Zach Ertz, TE, Arizona Cardinals, TE9
+95. Pat Freiermuth, TE, Pittsburgh Steelers, TE10
+96. Kadarius Toney, WR, New York Giants, WR39
+97. Dawson Knox, TE, Buffalo Bills, TE11
+98. Christian Kirk, WR, Jacksonville Jaguars, WR40
+99. James Robinson, RB, Jacksonville Jaguars, RB38
+100. Matthew Stafford, QB, Los Angeles Rams, QB11
+101. DeAndre Hopkins, WR, Arizona Cardinals, WR41
+102. Aaron Rodgers, QB, Green Bay Packers, QB12
+103. Michael Carter, RB, New York Jets, RB39
+104. James Cook, RB, Buffalo Bills, RB40
+105. Brandon Aiyuk, WR, San Francisco 49ers, WR42
+106. Mike Gesicki, TE, Miami Dolphins, TE12
+107. Trey Lance, QB, San Francisco 49ers, QB13
+108. Nyheim Hines, RB, Indianapolis Colts, RB41
+109. Garrett Wilson, WR, New York Jets, WR43
+110. Derek Carr, QB, Las Vegas Raiders, QB14
+111. Hunter Henry, TE, New England Patriots, TE13
+112. Cole Kmet, TE, Chicago Bears, TE14
+113. Chase Claypool, WR, Pittsburgh Steelers, WR44
+114. Robert Woods, WR, Tennessee Titans, WR45
+115. Noah Fant, TE, Seattle Seahawks, TE15
+116. Dameon Pierce, RB, Houston Texans, RB42
+117. Allen Lazard, WR, Green Bay Packers, WR46
+118. Treylon Burks, WR, Tennessee Titans, WR47
+119. Kirk Cousins, QB, Minnesota Vikings, QB15
+120. Russell Gage, WR, Tampa Bay Buccaneers, WR48
+121. J.D. McKissic, RB, Washington Football Team, RB43
+122. Isaiah Spiller, RB, Los Angeles Chargers, RB44
+123. Tua Tagovailoa, QB, Miami Dolphins, QB16
+124. Irv Smith, TE, Minnesota Vikings, TE16
+125. Skyy Moore, WR, Kansas City Chiefs, WR49
+126. Raheem Mostert, RB, Miami Dolphins, RB45
+127. Tyler Boyd, WR, Cincinnati Bengals, WR50
+128. Chris Olave, WR, New Orleans Saints, WR51
+129. Justin Fields, QB, Chicago Bears, QB17
+130. Albert Okwuegbunam, TE, Denver Broncos, TE17
+131. Alexander Mattison, RB, Minnesota Vikings, RB46
+132. Jamaal Williams, RB, Detroit Lions, RB47
+133. Marlon Mack, RB, Houston Texans, RB48
+134. Trevor Lawrence, QB, Jacksonville Jaguars, QB18
+135. Daniel Jones, QB, New York Giants, QB19
+136. David Njoku, TE, Cleveland Browns, TE18
+137. Ronald Jones, RB, Kansas City Chiefs, RB49
+138. Jakobi Meyers, WR, New England Patriots, WR52
+139. Robbie Anderson, WR, Carolina Panthers, WR53
+140. Justin Tucker, K, Baltimore Ravens, K1
+141. Deshaun Watson, QB, Cleveland Browns, QB20
+142. Kenny Golladay, WR, New York Giants, WR54
+143. Tyler Higbee, TE, Los Angeles Rams, TE19
+144. Marvin Jones, WR, Jacksonville Jaguars, WR55
+145. Darrell Henderson, RB, Los Angeles Rams, RB50
+146. Evan McPherson, K, Cincinnati Bengals, K2
+147. Gerald Everett, TE, Los Angeles Chargers, TE20
+148. Evan Engram, TE, Jacksonville Jaguars, TE21
+149. Buffalo Bills, DST, Buffalo Bills, DST1
+150. Jahan Dotson, WR, Washington Football Team, WR56
+151. Austin Hooper, TE, Tennessee Titans, TE22
+152. Hayden Hurst, TE, Cincinnati Bengals, TE23
+153. Jarvis Landry, WR, New Orleans Saints, WR57
+154. Tampa Bay Buccaneers, DST, Tampa Bay Buccaneers, DST2
+155. Kenyan Drake, RB, Las Vegas Raiders, RB51
+156. Matt Gay, K, Los Angeles Rams, K3
+157. Jalen Tolbert, WR, Dallas Cowboys, WR58
+158. San Francisco 49ers, DST, San Francisco 49ers, DST3
+159. Rex Burkhead, RB, Houston Texans, RB52
+160. Brandon McManus, K, Denver Broncos, K4
+161. Indianapolis Colts, DST, Indianapolis Colts, DST4
+162. Nico Collins, WR, Houston Texans, WR59
+163. Matt Ryan, QB, Indianapolis Colts, QB21
+164. Kenneth Gainwell, RB, Philadelphia Eagles, RB53
+165. Daniel Carlson, K, Las Vegas Raiders, K5
+166. Mac Jones, QB, New England Patriots, QB22
+167. Van Jefferson, WR, Los Angeles Rams, WR60
+168. Zach Wilson, QB, New York Jets, QB23
+169. New Orleans Saints, DST, New Orleans Saints, DST5
+170. Damien Williams, RB, Atlanta Falcons, RB54
+171. Tyler Bass, K, Buffalo Bills, K6
+172. Mecole Hardman, WR, Kansas City Chiefs, WR61
+173. Harrison Butker, K, Kansas City Chiefs, K7
+174. Los Angeles Rams, DST, Los Angeles Rams, DST6
+175. Mark Ingram, RB, New Orleans Saints, RB55
+176. Joshua Palmer, WR, Los Angeles Chargers, WR62
+177. Robert Tonyan, TE, Green Bay Packers, TE24
+178. Logan Thomas, TE, Washington Football Team, TE25
+179. Khalil Herbert, RB, Chicago Bears, RB56
+180. New England Patriots, DST, New England Patriots, DST7
+181. Marquez Valdes-Scantling, WR, Kansas City Chiefs, WR63
+182. Ryan Tannehill, QB, Tennessee Titans, QB24
+183. Darrel Williams, RB, Arizona Cardinals, RB57
+184. Ryan Succop, K, Tampa Bay Buccaneers, K8
+185. Green Bay Packers, DST, Green Bay Packers, DST8
+186. DJ Chark, WR, Detroit Lions, WR64
+187. Matt Prater, K, Arizona Cardinals, K9
+188. Rachaad White, RB, Tampa Bay Buccaneers, RB58
+189. Carson Wentz, QB, Washington Football Team, QB25
+190. Dallas Cowboys, DST, Dallas Cowboys, DST9
+191. Cedrick Wilson, WR, Miami Dolphins, WR65
+192. Nick Folk, K, New England Patriots, K10
+193. Jameis Winston, QB, New Orleans Saints, QB26
+194. Brian Robinson, RB, Washington Football Team, RB59
+195. DeVante Parker, WR, New England Patriots, WR66
+196. Denver Broncos, DST, Denver Broncos, DST10
+197. Gus Edwards, RB, Baltimore Ravens, RB60
+198. Brevin Jordan, TE, Houston Texans, TE26
+199. Rondale Moore, WR, Arizona Cardinals, WR67
+200. Jake Elliott, K, Philadelphia Eagles, K11
